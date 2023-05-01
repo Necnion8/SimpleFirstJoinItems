@@ -1,0 +1,5 @@
+name: SimpleFirstJoinItems
+version: '${version}'
+main: com.gmail.necnionch.myplugin.simplefirstjoinitems.bukkit.SimpleFirstJoinItemsPlugin
+api-version: 1.13
+authors: [ Necnion8 ]
